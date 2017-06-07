@@ -1,0 +1,37 @@
+body {
+    background: lightgreen;
+    text-align: center;
+    width: 640px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.mainDiv {
+    width: 100%;
+}
+
+.item-store {
+    width: 640px;
+    height: 492px;
+    overflow: hidden;
+}
+
+.item-store .item-box {
+    display: block;
+    width: 72000px;
+    height: 492px;
+    margin: 0;
+    padding: 0;
+}
+
+.item-store .item {
+    width: 640px;
+    height: 492px;
+    float: left;
+    list-style-type: none;
+}
+
+img {
+    width: 640px;
+    height: 492px;
+}
